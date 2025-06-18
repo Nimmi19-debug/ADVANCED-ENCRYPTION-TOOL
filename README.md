@@ -22,14 +22,13 @@ The tool performs all operations on the client side — no backend or internet a
 
 Technologies Used:
 
-Frontend Only: HTML, CSS, JavaScript (Web Crypto API)
-Editor: Visual Studio Code
+Frontend Only: HTML, CSS, JavaScript (Web Crypto API)   Editor: Visual Studio Code
 
 Files Used:
 
-index.html – User interface for file upload and password input
-style.css – Styling for layout and design
-encryption.js – JavaScript logic for AES encryption/decryption
+index.html – User interface for file upload and password input    style.css – Styling for layout and design    encryption.js – JavaScript logic for AES encryption/decryption
 
 "OUTPUT":
+
+![Image](https://github.com/user-attachments/assets/4e323a2f-44d9-4abe-9d13-c60ee30dd873)
 
